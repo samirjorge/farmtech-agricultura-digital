@@ -15,26 +15,13 @@ Projeto individual desenvolvido por Samir Jorge na FIAP.
 - `r-app/` → Script R (`estatisticas_insumos.R`)
 - `dados/` → Dados gerados em CSV
 
-## ▶️ Como rodar
-
-### Python:
-```bash
+▶️ Como rodar
+🔹 Python:
 cd python-app
 python farmtech_agricultura.py
 
-R:
+🔹 R:
 source("r-app/estatisticas_insumos.R")
+
 👤 Desenvolvedor
-Samir jorge de Araujo
-
-
----
-
-### 2. **Salva e envia pro GitHub**
-
-No Git Bash:
-
-```bash
-git add README.md
-git commit -m "Adiciona README com descrição do projeto"
-git push origin main
+Samir Jorge de Araujo
